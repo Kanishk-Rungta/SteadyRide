@@ -60,9 +60,7 @@ Mr. Vikram operates in Dwarka, Delhi. On a particular evening, air quality level
 
 ---
 
-## 4. Application Workflow
-
-### System Data Flow
+## 4. System Architecture Diagram
 
 ![App Screenshot](claim-service.png)
 
