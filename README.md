@@ -11,7 +11,7 @@
 1. [Problem Statement](#1-problem-statement)
 2. [Persona & Scenarios](#2-persona--scenarios)
 3. [Solution Overview](#3-solution-overview)
-4. [Application Workflow](#4-application-workflow)
+4. [System Architecture Diagram](#4-system-architecture-diagram)
 5. [Parametric Trigger System](#5-parametric-trigger-system)
 6. [Fraud Detection](#6-fraud-detection)
 7. [Weekly Premium Model](#7-weekly-premium-model)
